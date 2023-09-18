@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal Bankoglu</h1>
 
-- 🏋️‍♂️ I’m currently learning C and C#
+- 🏋️‍♂️ I’m currently learning C and JavaScript
 - 🙋‍♂️ Ask me about C algorithms 
 - 🧑‍💻 How to reach me: kmlbnk007@gmail.com 
 
