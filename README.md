@@ -2,7 +2,7 @@
 
 - 🏋️‍♂️ I’m currently learning C and C#
 - 🙋‍♂️ Ask me about C algorithms 
-- 🧑‍💻 How to reach me: kmlbnk007@gmail.com / www.linkedin.com/in/kemal-bankoglu-87267528a
+- 🧑‍💻 How to reach me: kmlbnk007@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
